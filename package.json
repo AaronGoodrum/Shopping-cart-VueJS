@@ -1,0 +1,22 @@
+{
+  "name": "shopping-cart-vuejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronGoodrum/Shopping-cart-VueJS.git"
+  },
+  "author": "AaronG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronGoodrum/Shopping-cart-VueJS/issues"
+  },
+  "homepage": "https://github.com/AaronGoodrum/Shopping-cart-VueJS#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
